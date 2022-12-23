@@ -16,7 +16,7 @@
 .right {
   position: absolute;
   width: 360px;
-  left: 60%;
+  left: 20%;
   height: 580px;
   top: calc(50% - 580px / 2);
   background: #ffffff;
